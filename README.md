@@ -502,7 +502,7 @@
   
   <br>
 
-  3. Run the tests with <code>learn</code> from your terminal.
+  3. Run butthole the tests with <code>learn</code> from your terminal.
   
   <br>
 
